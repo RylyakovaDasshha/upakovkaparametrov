@@ -5,3 +5,5 @@ def sort_numbers(*args):
 
 result = sort_numbers(5, -3, 10, -2, 0, -8, 7)
 print(result)
+#1. Создается функция `sort_numbers`, которая принимает неограниченное количество числовых аргументов `*args`.
+#2. Создаются два пустых списка `negative_numbers` для отрицательных чисел и `non_negative_numbers` для неотрицательных
